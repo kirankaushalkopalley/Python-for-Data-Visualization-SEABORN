@@ -1,2 +1,2 @@
 # Python for Data Visualization SEABORN
- The most commonly used library for Data Visualization
+ The most commonly used Python library for Data Visualization
