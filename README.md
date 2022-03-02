@@ -1,2 +1,2 @@
 # Python for Data Visualization SEABORN
- The most commonly used Python library for Data Visualization
+ Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
